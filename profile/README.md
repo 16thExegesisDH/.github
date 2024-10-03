@@ -1,6 +1,6 @@
 ## 16th Century Exegesis of Paul
 
-# Projet
+# Project
 
 The digital component of the project on the exegesis of Paul aims to build up a corpus of commentaries dating from the 16th century.
 
@@ -12,7 +12,7 @@ Project GitHub: https://github.com/16thExegesisDH
 
 This project is funded by the Swiss National Science Foundation (SNSF). Project number : [207696](https://data.snf.ch/grants/grant/207696)
 
-## Citation : Projet
+## Citation : Project
 
 Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann,  _16th Century Exegesis of Paul_, Geneva ; Zürich, university of Geneva and Zürich, 2023.
 
