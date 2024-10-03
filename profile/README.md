@@ -8,4 +8,26 @@ This digital corpus will make it possible to develop specific textual analysis t
 
 Project GitHub: https://github.com/16thExegesisDH
 
-more information: https://www.unige.ch/ihr/fr/accueil/exegese-paulinienne/
+## Funder
+
+This project is funded by the Swiss National Science Foundation (SNSF). Project number : [207696](https://data.snf.ch/grants/grant/207696)
+
+## Citation : Projet
+
+Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann,  _16th Century Exegesis of Paul_, Geneva ; Zürich, university of Geneva and Zürich, 2023.
+
+```bibtex
+@misc{Goy_exegesisofPaul_2023,
+  author={Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann},
+  title={16th Century Exegesis of Paul},
+  address={Geneva; Zürich},
+  publisher={univesity of Geneva; university of Zürich},
+  year={2023},
+  url={https://www.theologie.uzh.ch/de/faecher/neues-testament/Professur-f%C3%BCr-neutestamentliche-Wissenschaft/16th_century_exegesis_of_paul.html},
+  note={Grant number SNFS : 207696},
+}
+```
+## On the project
+
+-  Reformation Readings of Paul : [RRP](https://rrp.zahnd.be/) : database for the 16th century printed commentaries on Paul.
+-  in Zürich [exegesis of Paul](https://www.theologie.uzh.ch/de/faecher/neues-testament/Professur-f%C3%BCr-neutestamentliche-Wissenschaft/16th_century_exegesis_of_paul.html) and Geneva [l'exégèse des épîtres pauliniennes](https://www.unige.ch/ihr/fr/accueil/exegese-paulinienne/)
