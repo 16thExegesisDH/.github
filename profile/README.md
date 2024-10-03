@@ -1,13 +1,11 @@
 ## 16th Century Exegesis of Paul
 
+# Projet
 
-<!--
+The digital component of the project on the exegesis of Paul aims to build up a corpus of commentaries dating from the 16th century.
 
-**Here are some ideas to get you started:**
+This digital corpus will make it possible to develop specific textual analysis tools for texts in Latin from the 16th century and models for the automatic processing of printed material in Latin from this period. A major digital dimension is therefore planned for this project, with the digitisation of a large number of printed documents on the one hand and the computational exploitation of this data on the other, in particular using the distant reading et the topic modeling.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Project GitHub: https://github.com/16thExegesisDH
+
+more information: https://www.unige.ch/ihr/fr/accueil/exegese-paulinienne/
