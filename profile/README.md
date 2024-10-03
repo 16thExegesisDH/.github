@@ -12,6 +12,15 @@ Project GitHub: https://github.com/16thExegesisDH
 
 This project is funded by the Swiss National Science Foundation (SNSF). Project number : [207696](https://data.snf.ch/grants/grant/207696)
 
+## Data 
+
+the first corpus : [prototype data](https://github.com/FourbeFlo/Lambertus) (Roman characters)
+the second corpus : [project data](https://github.com/16thExegesisDH/HTR_Paul_corpus) (Roman characters)
+
+## Corpus 
+
+the corpus complete is avalaible in the [table.CSV] HTR_Paul_corpus repository 
+
 ## Citation : Project
 
 Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann,  _16th Century Exegesis of Paul_, Geneva ; Zürich, university of Geneva and Zürich, 2023.
