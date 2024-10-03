@@ -15,7 +15,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 ## Data 
 
 * the first corpus : [HTR_Lambertus_prototype](https://github.com/FourbeFlo/Lambertus) (Roman characters)
-  the beta-test corpus 2023-2024, more information on : [https://github.com/FourbeFlo/Lambertus]
+the beta-test corpus 2023-2024, more information on [https://github.com/FourbeFlo/Lambertus]
 * the second corpus : [HTR_Paul_corpus](https://github.com/16thExegesisDH/HTR_Paul_corpus) (Roman characters)
   the extended corpus 2024-2025
 
