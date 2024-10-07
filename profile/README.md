@@ -24,7 +24,9 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Corpus 
 
-the corpus complete is avalaible in the [corpus : 7-10-25](https://github.com/16thExegesisDH/HTR_beta_corpus_2023/blob/main/corpus_ocr.csv) HTR_Paul_corpus repository 
+the corpus complete is avalaible in the HTR_Paul_corpus repository
+
+[corpus : 7-10-25](https://github.com/16thExegesisDH/HTR_beta_corpus_2023/blob/main/corpus_ocr.csv)
 
 ## Citation : Project
 
