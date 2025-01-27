@@ -31,7 +31,7 @@ the corpus complete is avalaible in the HTR_Paul_corpus repository
 
 ## Citation : Project
 
-Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann,  _16th Century Exegesis of Paul_, Geneva ; Zürich, university of Geneva and Zürich, 2023.
+Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann,  _16th Century Exegesis of Paul_, Geneva ; Zürich, Universities of Geneva and Zürich, 2023.
 
 ```bibtex
 @misc{Goy_exegesisofPaul_2023,
