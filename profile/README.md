@@ -38,7 +38,7 @@ Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi 
   author={Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann},
   title={16th Century Exegesis of Paul},
   address={Geneva; Zürich},
-  publisher={univesity of Geneva; university of Zürich},
+  publisher={Univesity of Geneva; University of Zürich},
   year={2023},
   url={https://www.theologie.uzh.ch/de/faecher/neues-testament/Professur-f%C3%BCr-neutestamentliche-Wissenschaft/16th_century_exegesis_of_paul.html},
   note={Grant number SNFS : 207696},
