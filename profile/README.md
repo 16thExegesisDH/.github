@@ -20,7 +20,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
   _the beta-test corpus 2023-2024, more information on https://github.com/FourbeFlo/Lambertus_
 
 * 2nd corpus : [HTR_Paul_corpus](https://github.com/16thExegesisDH/HTR_Paul_corpus) (Roman characters)
-* 3rd corpus : [HTR_1-Timotheus](https://github.com/16thExegesisDH/HTR_1-Timotheus) (Roman characters) :  Contains the best dataset ✅ :white_check_mark:
+* 3rd corpus : [HTR_1-Timotheus](https://github.com/16thExegesisDH/HTR_1-Timotheus) (Roman characters) :  Contains the best dataset :white_check_mark:
   
 _the extended corpus 2024-2025_
 
