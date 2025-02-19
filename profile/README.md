@@ -22,7 +22,9 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 * 2nd corpus : [HTR_Paul_corpus](https://github.com/16thExegesisDH/HTR_Paul_corpus) (Roman characters)
 * 3rd corpus : [HTR_1-Timotheus](https://github.com/16thExegesisDH/HTR_1-Timotheus) (Roman characters) :  Contains the best dataset :white_check_mark:
   
-_the extended corpus 2024-2025_
+## GuideLine 
+
+* the Guideline for segmentation and transcription are available in the following [Readme](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md)  
 
 ## Corpus 
 
