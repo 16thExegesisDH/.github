@@ -6,7 +6,8 @@ The digital component of the project on the exegesis of Paul aims to build up a 
 
 This digital corpus will make it possible to develop specific textual analysis tools for texts in Latin from the 16th century and models for the automatic processing of printed material in Latin from this period. A major digital dimension is therefore planned for this project, with the digitisation of a large number of printed documents on the one hand and the computational exploitation of this data on the other, in particular using the distant reading et the topic modeling.
 
-Project GitHub: https://github.com/16thExegesisDH
+* Website : https://16thexegesisdh.github.io/ReformingPaul/
+* Project GitHub: https://github.com/16thExegesisDH
 
 ## Funder
 
@@ -14,13 +15,16 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Data 
 
-* the first corpus : [HTR_Lambertus_prototype](https://github.com/FourbeFlo/Lambertus) (Roman characters)
+* 1st corpus : [HTR_Lambertus_prototype](https://github.com/FourbeFlo/Lambertus) (Roman characters)
   
-  the beta-test corpus 2023-2024, more information on https://github.com/FourbeFlo/Lambertus
+  _the beta-test corpus 2023-2024, more information on https://github.com/FourbeFlo/Lambertus_
 
-* the second corpus : [HTR_Paul_corpus](https://github.com/16thExegesisDH/HTR_Paul_corpus) (Roman characters)
+* 2nd corpus : [HTR_Paul_corpus](https://github.com/16thExegesisDH/HTR_Paul_corpus) (Roman characters)
+* 3rd corpus : [HTR_1-Timotheus](https://github.com/16thExegesisDH/HTR_1-Timotheus) (Roman characters) :  Contains the best dataset :white_check_mark:
   
-  the extended corpus 2024-2025
+## GuideLine 
+
+* the Guideline for segmentation and transcription are available in the following [Readme](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md)  
 
 ## Corpus 
 
@@ -30,14 +34,14 @@ the corpus complete is avalaible in the HTR_Paul_corpus repository
 
 ## Citation : Project
 
-Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann,  _16th Century Exegesis of Paul_, Geneva ; Zürich, university of Geneva and Zürich, 2023.
+Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann,  _16th Century Exegesis of Paul_, Geneva ; Zürich, Universities of Geneva and Zürich, 2023.
 
 ```bibtex
 @misc{Goy_exegesisofPaul_2023,
   author={Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann},
   title={16th Century Exegesis of Paul},
   address={Geneva; Zürich},
-  publisher={univesity of Geneva; university of Zürich},
+  publisher={Univesity of Geneva; University of Zürich},
   year={2023},
   url={https://www.theologie.uzh.ch/de/faecher/neues-testament/Professur-f%C3%BCr-neutestamentliche-Wissenschaft/16th_century_exegesis_of_paul.html},
   note={Grant number SNFS : 207696},
