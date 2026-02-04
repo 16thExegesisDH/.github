@@ -23,9 +23,8 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 - [Models](#model)
 - [Workflow](#Workflow)
 - [Guideline](#guideline)
-  - [I. Guideline for Segmentation](#i-guideline-for-segmentation)
-  - [II. Guideline for Transcription](#ii-guideline-for-transcription)
-  - [III. Encoding Problem](#iii-encoding-problem)
+  - [I. Segmentation](#i-guideline-for-segmentation)
+  - [II. Transcription](#ii-guideline-for-transcription)
 - [Citations](#citations)
 
 ## Data 
@@ -64,11 +63,11 @@ For further explanations and examples, see our training materials:
 
 The guidelines for building Segmentation's and Transcription's datas. 
 
-## Segmentation
+## I. Segmentation
 The main documentation for segmentation is here: [Annotation Guide on GitHub](https://github.com/DEFI-COLaF/LADaS/blob/main/AnnotationGuide.md).
 * Examples of Specific Cases in Our Corpus[here](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md)
   
-## Transcription 
+## II: Transcription 
 We follow, as much as possible, the transcription standards proposed by [Catmus standard](https://catmus-guidelines.github.io):
 **Citation:**
 Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia Vlachou-Efstathiou, et al., *CATMuS-Medieval: Consistent Approaches to Transcribing ManuScripts: A generalized set of guidelines and models for Latin scripts from Middle Ages (8th–16th century)*. 2023. [hal-04346939](https://hal.archives-ouvertes.fr/hal-04346939).
