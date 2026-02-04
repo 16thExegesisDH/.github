@@ -106,9 +106,8 @@ Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia
   HAL_ID = {hal-03828353},
   HAL_VERSION = {v5},
 }
-``
+```
  
-
 # Citations
 
 ## Citation: Project
