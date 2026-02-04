@@ -39,9 +39,9 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Corpus 
 
-Corpus A : gold data : here [HTR_1-Digital-Library]()
-Corpus B : same book as for Corpus A but automaticly traited [HTR_1-Digital-Library]()
-Corpus C : corpus of the digital library : segmentation reviewed and htr of verset corrected.[HTR_1-Digital-Library]()
+**Corpus A** : gold data : here [here](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_A_2.csv)
+**Corpus B** : same book as for Corpus A but automaticly traited [here](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_B_2.csv)
+**Corpus C** : corpus of the digital library : segmentation reviewed and htr of verset corrected not available now (spring 2026).[here](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_C_2.csv)
 
 ## Models 
 
