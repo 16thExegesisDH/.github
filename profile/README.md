@@ -21,6 +21,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 - [Data](#data)
 - [Corpus](#corpus)
 - [Models](#model)
+- [Workflow](#Workflow)
 - [Guideline](#guideline)
   - [I. Guideline for Segmentation](#i-guideline-for-segmentation)
   - [II. Guideline for Transcription](#ii-guideline-for-transcription)
@@ -49,6 +50,10 @@ The complete corpus is available in the HTR_Paul_corpus repository.
 * **HTR:** 
   - Best model to use now (trained by colleagues with a set of our data): 
   - Old model trained for the project:
+    
+## Workflow
+the complete Pipeline and all script are described and available on the following repository 
+[Workflow]([https://github.com/16thExegesisDH/HTR_beta_corpus_2023/blob/main/corpus_ocr.csv](https://github.com/16thExegesisDH/PipeLineThm)
 
 # Guideline 
 
