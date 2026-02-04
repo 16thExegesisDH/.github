@@ -22,7 +22,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 - [Corpus](#corpus)
 - [Models](#model)
 - [Workflow](#Workflow)
-- [Guideline](#guideline)
+- [Guidelines](#guideline)
   - [I. Segmentation](#i-segmentation)
   - [II. Transcription](#ii-transcription)
 - [Citations](#citations)
