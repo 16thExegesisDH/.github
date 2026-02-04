@@ -52,8 +52,9 @@ The complete corpus is available in the HTR_Paul_corpus repository.
   - Old model trained for the project:
     
 ## Workflow
-the complete Pipeline and all script are described and available on the following repository 
-[Workflow]([https://github.com/16thExegesisDH/HTR_beta_corpus_2023/blob/main/corpus_ocr.csv](https://github.com/16thExegesisDH/PipeLineThm)
+
+The complete pipeline and all scripts are described and available in the following repository:  
+[Workflow](https://github.com/16thExegesisDH/PipeLineThm)
 
 # Guideline 
 
