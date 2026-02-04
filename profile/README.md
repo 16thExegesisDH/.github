@@ -2,7 +2,8 @@
 
 # Website 
 
-* Website: https://16thexegesisdh.github.io/ReformingPaul/
+* Website: https://16thexegesisdh.github.io/ReformingPaul/ 
+* Migration to TEI Publisher scheduled for **summer 2026**
 
 # Project
 
@@ -21,6 +22,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 - [Data](#data)
 - [Corpus](#corpus)
+- [Models](#model)
 - [Guideline](#guideline)
   - [I. Guideline for Segmentation](#i-guideline-for-segmentation)
   - [II. Guideline for Transcription](#ii-guideline-for-transcription)
@@ -31,17 +33,22 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 **Corpus HTR et Segmentation**
 
-* 2026: []() digital library corpus
+* 2026 (spring-summer): []() digital library corpus
 * 2025: [HTR_1-Timotheus](https://github.com/16thExegesisDH/HTR_1-Timotheus) (Roman characters): Contains the best dataset :white_check_mark:
   - Commentaries on Timotheus and PHD students dataset `_test`
 * 2024: [HTR_Lambertus_prototype](https://github.com/FourbeFlo/Lambertus) (Roman characters):
-  - The beta-test corpus 2023-2024, more information on https://github.com/FourbeFlo/Lambertus, data now uploaded with a new version
-  
+  - The beta-test corpus 2023-2024, more information on https://github.com/FourbeFlo/Lambertus, data now uploaded with a new version  
+
 ## Corpus 
 
 The complete corpus is available in the HTR_Paul_corpus repository.
 
 [Corpus: 7-10-24](https://github.com/16thExegesisDH/HTR_beta_corpus_2023/blob/main/corpus_ocr.csv)
+
+## Models 
+* Layout Analysis : 
+* HTR :  - best model to use now (trained by collegues with a set of our datas :  
+         -old model trained for the projet : 
 
 # Guideline 
 
