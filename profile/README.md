@@ -54,10 +54,12 @@ The complete corpus is available in the HTR_Paul_corpus repository.
 ## Workflow
 
 The complete pipeline and all scripts are described and available in the following repository:  
-[Workflow](https://github.com/16thExegesisDH/PipeLineThm)
-You can find further explanations and examples in our training materials, available here:  
-[Training Materials](https://github.com/CUSO-2025-Ed-Num-online?view_as=public)
-...citer sonia etc
+**[Workflow Repository – PipeLineThm](https://github.com/16thExegesisDH/PipeLineThm)**  
+
+For further explanations and examples, see our training materials:  
+**[Training Materials – CUSO 2025 Ed-Num Online](https://github.com/CUSO-2025-Ed-Num-online?view_as=public)**  
+- **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS *SETAF*), **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS *16th Century Exegesis of Paul* )*
+
 # Guideline 
 
 The guidelines for segmentation and transcription 
