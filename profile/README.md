@@ -80,8 +80,14 @@ We follow, as much as possible, the transcription standards proposed by [Catmus 
 **Citation:**
 Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia Vlachou-Efstathiou, et al., *CATMuS-Medieval: Consistent Approaches to Transcribing ManuScripts: A generalized set of guidelines and models for Latin scripts from Middle Ages (8th–16th century)*. 2023. [hal-04346939](https://hal.archives-ouvertes.fr/hal-04346939).
 * Examples of specific cases in our corpus : [here](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md)
-* specific Keybaord : [16th-neolatin](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/68a7f23d9eb70a8161f6066f8f650c67259446ee/keyboard/exegesis.json)
-                    : [medieval-latin](https://github.com/HTR-United/CREMMA-Medieval-LAT) developed in the of
+
+### Specific Keyboards
+- **[`16th-neolatin`](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/68a7f23d9eb70a8161f6066f8f650c67259446ee/keyboard/exegesis.json)**  
+  Custom keyboard developed specifically for our 16th-century Neo-Latin corpus.
+
+- **[`medieval-latin`](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/68a7f23d9eb70a8161f6066f8f650c67259446ee/keyboard/medieval.json)**  
+  Keyboard with minor adaptations based on the one developed for the [CREMMA-Medieval-LAT](https://github.com/HTR-United/CREMMA-Medieval-LAT/) project.
+ 
 
 ```bibtex
    @article{clerice:hal-03828353,
