@@ -80,6 +80,28 @@ We follow, as much as possible, the transcription standards proposed by [Catmus 
 **Citation:**
 Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia Vlachou-Efstathiou, et al., *CATMuS-Medieval: Consistent Approaches to Transcribing ManuScripts: A generalized set of guidelines and models for Latin scripts from Middle Ages (8th–16th century)*. 2023. [hal-04346939](https://hal.archives-ouvertes.fr/hal-04346939).
 * Examples of specific cases in our corpus : [here](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md)
+* specific Keybaord : [16th-neolatin](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/68a7f23d9eb70a8161f6066f8f650c67259446ee/keyboard/exegesis.json)
+                    : [medieval-latin](https://github.com/HTR-United/CREMMA-Medieval-LAT) developed in the of
+
+```bibtex
+   @article{clerice:hal-03828353,
+  TITLE = {{CREMMA Medii Aevi: Literary manuscript text recognition in Latin}},
+  AUTHOR = {Cl{\'e}rice, Thibault and Vlachou-Efstathiou, Malamatenia and Chagu{\'e}, Alix},
+  URL = {https://enc.hal.science/hal-03828353},
+  JOURNAL = {{Journal of Open Humanities Data}},
+  PUBLISHER = {{Ubiquity Press}},
+  VOLUME = {9},
+  PAGES = {4},
+  YEAR = {2023},
+  MONTH = Apr,
+  DOI = {10.5334/johd.97},
+  KEYWORDS = {Handwritten Text Recognition ; Latin ; Manuscripts ; Middle Ages ; Layout Segmentation},
+  PDF = {https://enc.hal.science/hal-03828353v5/file/Editor%20Print.pdf},
+  HAL_ID = {hal-03828353},
+  HAL_VERSION = {v5},
+}
+``
+ 
 
 # Citations
 
