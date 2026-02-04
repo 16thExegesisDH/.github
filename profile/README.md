@@ -110,7 +110,35 @@ Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia
 
 ## III. Encoding Problem
 
-_This section is reserved for documenting encoding issues that may arise during the transcription process._
+### Reading Hidden Characters in Junicode on eScriptorium
+
+| Original state | Encoding Failure | Encoding Success |
+|:----------------:|:-----------------:|:----------------:|
+| <img src="./pictures/stylus/qligature.png" width="80"> |  <img src="./pictures/stylus/encodingfail.png" width="80"> | <img src="./pictures/stylus/encoding_working.png" width="80">|
+
+---
+
+### Steps to Resolve Encoding Issues with Stylus:
+
+1. **Use Google Chrome:**  
+   Ensure you are using Chrome as your web browser. The following steps require the Stylus extension.
+
+2. **Download the Stylus Extension:**  
+   Install Stylus from the Chrome Web Store:  
+   [Stylus Extension](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+
+3. **Upload the MUFI Style for eScriptorium:**  
+   Download the MUFI style from this link:  
+   [MUFI for eScriptorium](https://userstyles.world/style/3915/mufi-for-escriptorium)
+
+4. **Implement and Apply the Style:**  
+   - Open the Stylus extension in Chrome.  
+   - Upload the downloaded MUFI style.  
+   - Apply the style to the **e-Scriptorium** domain
+---
+
+<img src="./pictures/stylus/change_stylecss.png" > <br/>
+<img src="./pictures/stylus/plugin_stylus.png" > <br/>
 
 # Citations
 
