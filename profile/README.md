@@ -44,13 +44,15 @@ The complete corpus is available in the HTR_Paul_corpus repository.
 [Corpus: 7-10-24](https://github.com/16thExegesisDH/HTR_beta_corpus_2023/blob/main/corpus_ocr.csv)
 
 ## Models 
-* Layout Analysis : 
-* HTR :  - best model to use now (trained by collegues with a set of our datas :  
-         -old model trained for the projet : 
+
+* **Layout Analysis:** 
+* **HTR:** 
+  - Best model to use now (trained by colleagues with a set of our data): 
+  - Old model trained for the project:
 
 # Guideline 
 
-The guidelines for segmentation and transcription are available in the following [README](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md).
+The guidelines for segmentation and transcription 
 
 ## I. Guideline for Segmentation
 
