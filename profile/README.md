@@ -68,7 +68,8 @@ The guidelines for segmentation and transcription
 
 The main documentation is here: [Annotation Guide on GitHub](https://github.com/DEFI-COLaF/LADaS/blob/main/AnnotationGuide.md).
 
-* Examples of [Specific Cases in Our Corpus] (https://github.com/16thExegesisDH/HTR_Paul_corpus)
+* Examples of [Specific Cases in Our Corpus](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md)
+
 
 # Citations
 
