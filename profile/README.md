@@ -45,11 +45,14 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Models 
 
-* **Layout Analysis:** 
+* **Layout Analysis:**
+  - [Repository – Segmentation-model](https://github.com/16thExegesisDH/Segmentation_model)
+  - best model :[Download](https://github.com/16thExegesisDH/Segmentation_model/releases/download/segmentation/best.pt)
 * **HTR:** 
   - Best model to use now (trained by colleagues with a set of our data): 
   - Old model trained for the project:
-    
+    * [Reposoitory – OCR](https://github.com/FourbeFlo/OCR_test)
+    - old model (2024): [Download](https://github.com/FourbeFlo/OCR_test/releases/download/ml.model/lambertus_test_mai_best.mlmodel)
 ## Workflow
 
 The complete pipeline and all scripts are described and available in the following repository:  
@@ -59,7 +62,7 @@ For further explanations and examples, see our training materials:
 **[Training Materials – CUSO 2025 Ed-Num Online](https://github.com/CUSO-2025-Ed-Num-online?view_as=public)**  
 - **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS *SETAF*), **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS *16th Century Exegesis of Paul* )*
 
-# Guideline 
+# Guidelines 
 
 The guidelines for building Segmentation's and Transcription's datas. 
 
