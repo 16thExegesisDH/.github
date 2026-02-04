@@ -39,9 +39,9 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Corpus 
 
-The complete corpus is available in the HTR_Paul_corpus repository.
-
-[Corpus: 7-10-24](https://github.com/16thExegesisDH/HTR_beta_corpus_2023/blob/main/corpus_ocr.csv)
+Corpus A : gold data : here [[[HTR_1-Digital-Library]]]()
+Corpus B : same book as for Corpus A but automaticly traited [[HTR_1-Digital-Library]]]()
+Corpus C : corpus of the digital library : segmentation reviewed and htr of verset corrected. [[HTR_1-Digital-Library]]()
 
 ## Models 
 
