@@ -53,7 +53,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
   - [Repository – Segmentation-model](https://github.com/16thExegesisDH/Segmentation_model)
   - best model (20.01.26) :[Download](https://github.com/16thExegesisDH/Segmentation_model/releases/download/segmentation/best.pt)
 * **HTR:** 
-  - Best model to use now (trained by colleagues with a set of our data): 
+  - Best model currently available (trained by colleagues on a subset of our data; link forthcoming)
   - Old model trained for the project:
     * [Reposoitory – OCR](https://github.com/FourbeFlo/OCR_test)
     - old model (25.06.2024): [Download](https://github.com/FourbeFlo/OCR_test/releases/download/ml.model/lambertus_test_mai_best.mlmodel)
