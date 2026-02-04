@@ -39,20 +39,24 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Corpus 
 
-**Corpus A** : gold data : here [here](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_A_2.csv)
-**Corpus B** : same book as for Corpus A but automaticly traited [here](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_B_2.csv)
-**Corpus C** : corpus of the digital library : segmentation reviewed and htr of verset corrected not available now (spring 2026).[here](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_C_2.csv)
+| Corpus | Description | File |
+|--------|-------------|------|
+| **Corpus A** | Gold-standard corpus (manually corrected) | [Corpus_A_2.csv](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_A_2.csv) |
+| **Corpus B** | Automatically processed version of the same book (segmentation + HTR) | [Corpus_B_2.csv](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_B_2.csv) |
+| **Corpus C** | Digital library corpus (reviewed segmentation, corrected verse-level HTR) | [Corpus_C_2.csv](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_C_2.csv) |
+
+
 
 ## Models 
 
 * **Layout Analysis:**
   - [Repository – Segmentation-model](https://github.com/16thExegesisDH/Segmentation_model)
-  - best model :[Download](https://github.com/16thExegesisDH/Segmentation_model/releases/download/segmentation/best.pt)
+  - best model (20.01.26) :[Download](https://github.com/16thExegesisDH/Segmentation_model/releases/download/segmentation/best.pt)
 * **HTR:** 
   - Best model to use now (trained by colleagues with a set of our data): 
   - Old model trained for the project:
     * [Reposoitory – OCR](https://github.com/FourbeFlo/OCR_test)
-    - old model (2024): [Download](https://github.com/FourbeFlo/OCR_test/releases/download/ml.model/lambertus_test_mai_best.mlmodel)
+    - old model (25.06.2024): [Download](https://github.com/FourbeFlo/OCR_test/releases/download/ml.model/lambertus_test_mai_best.mlmodel)
 ## Workflow
 
 The complete pipeline and all scripts are described and available in the following repository:  
