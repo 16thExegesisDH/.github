@@ -22,8 +22,8 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 - [Corpus](#corpus)
 - [Models](#model)
 - [Workflow](#Workflow)
-  - [Processing Pipeline (ALTO → TEI → LaTeX / HTML / PDF / TXT)]
-  - [Web Application (TEI Publisher)]
+  - [Processing Pipeline : ALTO → TEI → LaTeX / HTML / PDF / TXT](#i-processing-pipeline)
+  - [Web Application :TEI Publisher](#ii-web-application)
 - [Guidelines](#guideline)
   - [I. Segmentation](#i-segmentation)
   - [II. Transcription](#ii-transcription)
@@ -59,7 +59,12 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
   - Old model trained for the project:
     * [Reposoitory – OCR](https://github.com/FourbeFlo/OCR_test)
     - old model (25.06.2024): [Download](https://github.com/FourbeFlo/OCR_test/releases/download/ml.model/lambertus_test_mai_best.mlmodel)
+
+---
+
 ## Workflow
+
+## I. Processing Pipeline : ALTO → TEI → LaTeX / HTML / PDF / TXT
 
 The complete pipeline and all scripts are described and available in the following repository:  
 **[Workflow Repository – PipeLineThm](https://github.com/16thExegesisDH/PipeLineThm)**  
@@ -68,6 +73,12 @@ For further explanations and examples, see our training materials:
 **[Training Materials – CUSO 2025 Ed-Num Online](https://github.com/CUSO-2025-Ed-Num-online?view_as=public)**  
 - **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS [*SETAF*](https://github.com/SETAFDH)), **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS [*16th Century Exegesis of Paul*](https://github.com/16thExegesisDH)
 
+
+## II.Web Application :TEI Publisher
+
+planed for summer 2026 
+
+---
 # Guidelines 
 
 The guidelines for building Segmentation's and Transcription's datas. 
