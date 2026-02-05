@@ -38,7 +38,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
  
 * **TEI**
   
- * [Tei-16th-Exegesis](link to come)
+ - Tei-16th-Exegesis(link to come)
 
 ---
 
@@ -46,7 +46,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
  
 * **HTR**
   
- * [HTR-Corpus-A](https://github.com/16thExegesisDH/HTR-Corpus-A)
+ - [HTR-Corpus-A](https://github.com/16thExegesisDH/HTR-Corpus-A)
 
 ---
 
