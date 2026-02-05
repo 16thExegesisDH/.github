@@ -127,9 +127,11 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 > *Journal of Open Humanities Data*, vol. 9, p. 4, 2023.  
 > DOI: https://doi.org/10.5334/johd.97 · HAL open archive: https://hal.science/hal-03828353
 
+---
+
 ## Project Timeline :
 
-## 📚 2023–2024: HTR Lambertus Prototype
+### 📚 2023–2024: HTR Lambertus Prototype
 
 **Handwritten Text Recognition for early modern Latin texts**
 
@@ -143,7 +145,7 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 
 ---
 
-## 📖 2024–2025: 1 Timothy Exegesis Project
+### 📖 2024–2025: 1 Timothy Exegesis Project
 
 **Corpus development for the First Letter to Timothy**
 
@@ -162,7 +164,7 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 
 ---
 
-## 🌐 2026: Digital Library
+### 🌐 2026: Digital Library
 
 **Corpus consolidation and web deployment**
 
