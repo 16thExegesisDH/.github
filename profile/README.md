@@ -136,6 +136,7 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 **Corpus development for the First Letter to Timothy**
 
 - Data normalization and preprocessing
+- HTML Website as prototype 
 - NLP automatic lemmatization with CLTK
 - Topic modeling and visual analytics
 - Layout Analysis model training
@@ -144,6 +145,7 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 **Repositories:**
 - [HTR_1-Timotheus](https://github.com/16thExegesisDH/HTR_1-Timotheus)
 - [Pipeline Timotheus](https://github.com/16thExegesisDH/PipeLineThm)
+- [Website: Reforming Paul](https://github.com/16thExegesisDH/ReformingPaul)
 
 ---
 
