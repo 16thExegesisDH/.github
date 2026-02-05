@@ -30,18 +30,25 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 - [Project Timeline](#project-timeline)
 - [Citations](#citations)
 
+---
+
 ## Data 
 
  The following repositories contain the XML-TEI texts from the 16th Century Exegesis of Paul projet. 
  
 * **TEI**
- *[Tei-16th-Exegesis](link to come)
+  
+ * [Tei-16th-Exegesis](link to come)
 
+---
 
  The following repositories contain the HTR texts from the 16th Century Exegesis of Paul projet. 
  
 * **HTR**
- *[HTR-Corpus-A](https://github.com/16thExegesisDH/HTR-Corpus-A)
+  
+ * [HTR-Corpus-A](https://github.com/16thExegesisDH/HTR-Corpus-A)
+
+---
 
 ## Corpus 
 
