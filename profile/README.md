@@ -41,7 +41,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 | Corpus | Description | File |
 |--------|-------------|------|
-| **Corpus A** | Gold-standard corpus (manually corrected), used as a training dataset for the models.| [Corpus_A_2.csv](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_A_2.csv) |
+| **Corpus A** | Gold-standard corpus (manually corrected), used as a training dataset for the models.| [Corpus_A.csv](https://github.com/16thExegesisDH/HTR-Corpus-A/blob/main/corpus/Corpus_A.csv) |
 | **Corpus B** | Automatically processed version completing the books of Corpus A (segmentation + HTR) | [Corpus_B_2.csv](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_B_2.csv) |
 | **Corpus C** | Digital library corpus (reviewed segmentation, corrected verse-level HTR) | [Corpus_C_2.csv](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_C_2.csv) |
 
