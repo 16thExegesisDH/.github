@@ -93,7 +93,7 @@ The main documentation for segmentation is here: [Annotation Guide on GitHub](ht
 * Examples of specific cases in our corpus : [here](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md)
 
   
-### II: Transcription 
+### II. Transcription 
 We follow, as much as possible, the transcription standards proposed by [Catmus standard](https://catmus-guidelines.github.io):
 **Citation:**
 > **Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia Vlachou‑Efstathiou, et al.**  
