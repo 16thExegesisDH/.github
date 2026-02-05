@@ -146,6 +146,7 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 - [HTR_1-Timotheus](https://github.com/16thExegesisDH/HTR_1-Timotheus)
 - [Pipeline Timotheus](https://github.com/16thExegesisDH/PipeLineThm)
 - [Website: Reforming Paul](https://github.com/16thExegesisDH/ReformingPaul)
+- [Layout Analysis data set](https://github.com/16thExegesisDH/Segmentation_model)
 
 ---
 
