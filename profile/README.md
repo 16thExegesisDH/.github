@@ -53,7 +53,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 * **Layout Analysis:**
   - [Repository – Segmentation-model](https://github.com/16thExegesisDH/Segmentation_model)
-  - best model (20.01.26) :[Download](https://github.com/16thExegesisDH/Segmentation_model/releases/download/v1.0.0/Layout-16th-Print-Lat.pt)
+  - Our model _Layout-16th-Print-Lat_ available on zenodo :[18492102](https://doi.org/10.5281/zenodo.18492102)
 * **HTR:** 
   - Best model currently available (trained by colleagues on a subset of our data; link forthcoming)
   - Old model trained for the project:
