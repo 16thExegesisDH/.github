@@ -34,11 +34,9 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 **Corpus HTR et Segmentation**
 
 * 2026 (spring-summer): []() digital library corpus
-* 2025: [HTR_1-Timotheus](https://github.com/16thExegesisDH/HTR_1-Timotheus) (Roman characters): Contains the best dataset :white_check_mark:
-  - Commentaries on Timotheus and PHD students dataset `_test`
-* 2024: [HTR_Lambertus_prototype](https://github.com/FourbeFlo/Lambertus) (Roman characters):
-  - The beta-test corpus 2023-2024, more information on https://github.com/FourbeFlo/Lambertus, data now uploaded with a new version  
-
+* 2025: [HTR-Corpus-A](https://github.com/16thExegesisDH/HTR-Corpus-A) (Roman characters): Contains the best dataset :white_check_mark:
+        * Commentaries on Timotheus and PHD students dataset `_test`
+  
 ## Corpus 
 
 | Corpus | Description | File |
@@ -116,7 +114,50 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 > *CREMMA Medii Aevi: Literary manuscript text recognition in Latin.*  
 > *Journal of Open Humanities Data*, vol. 9, p. 4, 2023.  
 > DOI: https://doi.org/10.5334/johd.97 · HAL open archive: https://hal.science/hal-03828353
- 
+
+## Project Timeline :
+
+## 📚 2023–2024: HTR Lambertus Prototype
+
+**Handwritten Text Recognition for early modern Latin texts**
+
+- HTR training for Roman characters and Latin abbreviations
+- Lemmatization and linguistic annotation testing
+- Data normalization
+
+**Repositories:**
+- [HTR_Lambertus_prototype](https://github.com/FourbeFlo/Lambertus)
+- [OCR-testing](https://github.com/FourbeFlo/OCR_test)
+
+---
+
+## 📖 2024–2025: 1 Timothy Exegesis Project
+
+**Corpus development for the First Letter to Timothy**
+
+- Data normalization and preprocessing
+- NLP automatic lemmatization with CLTK
+- Topic modeling and visual analytics
+- Layout Analysis model training
+- Development of **Corpus B**, completing the Timotheus Corpus
+
+**Repositories:**
+- [HTR_1-Timotheus](https://github.com/16thExegesisDH/HTR_1-Timotheus)
+- [Pipeline Timotheus](https://github.com/16thExegesisDH/PipeLineThm)
+
+---
+
+## 🌐 2026: Digital Library
+
+**Corpus consolidation and web deployment**
+
+- Migration of HTR Lambertus prototype data → **Corpus-A**
+- Migration of 1 Timothy project data → **Corpus-A**
+- Expansion of **Corpus-C** with additional books
+- Web application deployment via **TEI-Publisher**
+
+---
+
 ## Citations
 
 ### Citation: Project
