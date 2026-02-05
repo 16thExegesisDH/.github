@@ -64,7 +64,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Workflow
 
-## I. Processing Pipeline : ALTO → TEI → LaTeX / HTML / PDF / TXT
+### I. Processing Pipeline : ALTO → TEI → LaTeX / HTML / PDF / TXT
 
 The complete pipeline and all scripts are described and available in the following repository:  
 **[Workflow Repository – PipeLineThm](https://github.com/16thExegesisDH/PipeLineThm)**  
@@ -74,7 +74,7 @@ For further explanations and examples, see our training materials:
 - **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS [*SETAF*](https://github.com/SETAFDH)), **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS [*16th Century Exegesis of Paul*](https://github.com/16thExegesisDH)
 
 
-## II.Web Application :TEI Publisher
+### II.Web Application :TEI Publisher
 
 planed for summer 2026 
 
