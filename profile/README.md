@@ -171,6 +171,12 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 - Expansion of **Corpus-C** with additional books
 - Web application deployment via **TEI-Publisher**
 
+**Repositories:**
+- [HTR-Corpus-A](https://github.com/16thExegesisDH/HTR-Corpus-A)
+- Topic-modelling Resultat : ...
+- Corpus-C : ...
+- Paulus-App : ...
+
 ---
 
 ## Citations
