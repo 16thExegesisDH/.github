@@ -74,21 +74,21 @@ For further explanations and examples, see our training materials:
 - **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS [*SETAF*](https://github.com/SETAFDH)), **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS [*16th Century Exegesis of Paul*](https://github.com/16thExegesisDH)
 
 
-### II.Web Application :TEI Publisher
+### II. Web Application :TEI Publisher
 
 planed for summer 2026 
 
 ---
-# Guidelines 
+## Guidelines 
 
 The guidelines for building Segmentation's and Transcription's datas. 
 
-## I. Segmentation
+### I. Segmentation
 The main documentation for segmentation is here: [Annotation Guide on GitHub](https://github.com/DEFI-COLaF/LADaS/blob/main/AnnotationGuide.md).
 * Examples of specific cases in our corpus : [here](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md)
 
   
-## II: Transcription 
+### II: Transcription 
 We follow, as much as possible, the transcription standards proposed by [Catmus standard](https://catmus-guidelines.github.io):
 **Citation:**
 > **Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia Vlachou‑Efstathiou, et al.**  
@@ -99,7 +99,7 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 
 ---
 
-### Specific Keyboards
+#### Specific Keyboards
 
 - **[`16th‑neolatin`](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/68a7f23d9eb70a8161f6066f8f650c67259446ee/keyboard/exegesis.json)**  
   Custom keyboard developed specifically for our 16th‑century Neo‑Latin corpus.
@@ -112,9 +112,9 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 > *Journal of Open Humanities Data*, vol. 9, p. 4, 2023.  
 > DOI: https://doi.org/10.5334/johd.97 · HAL open archive: https://hal.science/hal-03828353
  
-# Citations
+## Citations
 
-## Citation: Project
+### Citation: Project
 
 Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann, _16th Century Exegesis of Paul_, Geneva; Zürich, Universities of Geneva and Zürich, 2023.
 
