@@ -78,7 +78,7 @@ The complete pipeline and all scripts are described and available in the followi
 >  
 > **Contributors**  
 > - **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS [*SETAF*](https://github.com/SETAFDH))  
-> - **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS [*16th Century Exegesis of Paul*](https://github.com/16thExegesisDH))
+> - **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS [*16th Century Exegesis of Paul*](https://github.com/16thExegesisDH)
 </small>
 
 ### II. Web Application :TEI Publisher
