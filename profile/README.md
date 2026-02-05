@@ -129,7 +129,7 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 
 ---
 
-## Project Timeline :
+## Project Timeline
 
 ### 📚 2023–2024: HTR Lambertus Prototype
 
