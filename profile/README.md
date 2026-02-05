@@ -98,25 +98,6 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 > *CREMMA Medii Aevi: Literary manuscript text recognition in Latin.*  
 > *Journal of Open Humanities Data*, vol. 9, p. 4, 2023.  
 > DOI: https://doi.org/10.5334/johd.97 · HAL open archive: https://hal.science/hal-03828353
-
-```bibtex
-   @article{clerice:hal-03828353,
-  TITLE = {{CREMMA Medii Aevi: Literary manuscript text recognition in Latin}},
-  AUTHOR = {Cl{\'e}rice, Thibault and Vlachou-Efstathiou, Malamatenia and Chagu{\'e}, Alix},
-  URL = {https://enc.hal.science/hal-03828353},
-  JOURNAL = {{Journal of Open Humanities Data}},
-  PUBLISHER = {{Ubiquity Press}},
-  VOLUME = {9},
-  PAGES = {4},
-  YEAR = {2023},
-  MONTH = Apr,
-  DOI = {10.5334/johd.97},
-  KEYWORDS = {Handwritten Text Recognition ; Latin ; Manuscripts ; Middle Ages ; Layout Segmentation},
-  PDF = {https://enc.hal.science/hal-03828353v5/file/Editor%20Print.pdf},
-  HAL_ID = {hal-03828353},
-  HAL_VERSION = {v5},
-}
-```
  
 # Citations
 
