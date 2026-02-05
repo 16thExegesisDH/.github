@@ -78,16 +78,26 @@ The main documentation for segmentation is here: [Annotation Guide on GitHub](ht
 ## II: Transcription 
 We follow, as much as possible, the transcription standards proposed by [Catmus standard](https://catmus-guidelines.github.io):
 **Citation:**
-Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia Vlachou-Efstathiou, et al., *CATMuS-Medieval: Consistent Approaches to Transcribing ManuScripts: A generalized set of guidelines and models for Latin scripts from Middle Ages (8th–16th century)*. 2023. [hal-04346939](https://hal.archives-ouvertes.fr/hal-04346939).
-* Examples of specific cases in our corpus : [here](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md)
+> **Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia Vlachou‑Efstathiou, et al.**  
+> *CATMuS‑Medieval: Consistent Approaches to Transcribing ManuScripts. A generalized set of guidelines and models for Latin scripts from the Middle Ages (8th–16th century).*  
+> 2023. HAL open archive: https://hal.archives-ouvertes.fr/hal-04346939
+
+Examples of specific cases in our corpus are available **[here](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/main/README.md)**.
+
+---
 
 ### Specific Keyboards
-- **[`16th-neolatin`](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/68a7f23d9eb70a8161f6066f8f650c67259446ee/keyboard/exegesis.json)**  
-  Custom keyboard developed specifically for our 16th-century Neo-Latin corpus.
 
-- **[`medieval-latin`](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/68a7f23d9eb70a8161f6066f8f650c67259446ee/keyboard/medieval.json)**  
+- **[`16th‑neolatin`](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/68a7f23d9eb70a8161f6066f8f650c67259446ee/keyboard/exegesis.json)**  
+  Custom keyboard developed specifically for our 16th‑century Neo‑Latin corpus.
+
+- **[`medieval‑latin`](https://github.com/16thExegesisDH/HTR_Paul_corpus/blob/68a7f23d9eb70a8161f6066f8f650c67259446ee/keyboard/medieval.json)**  
   Keyboard with minor adaptations based on the one developed for the [CREMMA-Medieval-LAT](https://github.com/HTR-United/CREMMA-Medieval-LAT/) project.
  
+> **Thibault Clérice, Malamatenia Vlachou‑Efstathiou, Alix Chagué.**  
+> *CREMMA Medii Aevi: Literary manuscript text recognition in Latin.*  
+> *Journal of Open Humanities Data*, vol. 9, p. 4, 2023.  
+> DOI: https://doi.org/10.5334/johd.97 · HAL open archive: https://hal.science/hal-03828353
 
 ```bibtex
    @article{clerice:hal-03828353,
