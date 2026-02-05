@@ -69,7 +69,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 The complete pipeline and all scripts are described and available in the following repository:  
 **[Workflow Repository – PipeLineThm](https://github.com/16thExegesisDH/PipeLineThm)**  
 
-###### Further explanations and examples
+##### Further explanations and examples
     
 > See our training materials and instructional lessons:
 > 
