@@ -69,6 +69,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 The complete pipeline and all scripts are described and available in the following repository:  
 **[Workflow Repository – PipeLineThm](https://github.com/16thExegesisDH/PipeLineThm)**  
 
+<small>
 > [!NOTE]
 > **Further explanations and examples**  
 >  
@@ -78,7 +79,7 @@ The complete pipeline and all scripts are described and available in the followi
 > **Contributors**  
 > - **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS [*SETAF*](https://github.com/SETAFDH))  
 > - **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS [*16th Century Exegesis of Paul*](https://github.com/16thExegesisDH))
-
+</small>
 
 ### II. Web Application :TEI Publisher
 
