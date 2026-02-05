@@ -64,7 +64,7 @@ The complete pipeline and all scripts are described and available in the followi
 
 For further explanations and examples, see our training materials:  
 **[Training Materials – CUSO 2025 Ed-Num Online](https://github.com/CUSO-2025-Ed-Num-online?view_as=public)**  
-- **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS *SETAF*), **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS *16th Century Exegesis of Paul* )*
+- **Sonia Solfrini**, Doctorante (Université de Genève | IHR, Projet FNS [*SETAF*](https://github.com/SETAFDH)), **Floriane Goy**, Post-doctorante (Université de Genève | IHR, Projet FNS [*16th Century Exegesis of Paul*](https://github.com/16thExegesisDH)
 
 # Guidelines 
 
