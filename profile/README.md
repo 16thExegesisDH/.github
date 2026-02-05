@@ -31,11 +31,9 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Data 
 
-**Corpus HTR et Segmentation**
-
-* 2026 (spring-summer): []() digital library corpus
-* 2025: [HTR-Corpus-A](https://github.com/16thExegesisDH/HTR-Corpus-A) (Roman characters): Contains the best dataset :white_check_mark:
-        * Commentaries on Timotheus and PHD students dataset `_test`
+**HTR**
+ *[HTR-Corpus-A](https://github.com/16thExegesisDH/HTR-Corpus-A)
+**TEI**
   
 ## Corpus 
 
@@ -44,7 +42,6 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 | **Corpus A** | Gold-standard corpus (manually corrected), used as a training dataset for the models.| [Corpus_A.csv](https://github.com/16thExegesisDH/HTR-Corpus-A/blob/main/corpus/Corpus_A.csv) |
 | **Corpus B** | Automatically processed version completing the books of Corpus A (segmentation + HTR) | [Corpus_B_2.csv](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_B_2.csv) |
 | **Corpus C** | Digital library corpus (reviewed segmentation, corrected verse-level HTR) | [Corpus_C_2.csv](https://github.com/16thExegesisDH/HTR_1-Timotheus/blob/main/corpus/digital_library_set/Corpus_C_2.csv) |
-
 
 
 ## Models 
