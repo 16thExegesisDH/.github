@@ -50,7 +50,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
   
    - [HTR-Corpus-A](https://github.com/16thExegesisDH/HTR-Corpus-A)
    - [HTR-Corpus-B](https://github.com/16thExegesisDH/HTR-Corpus-B)
-   - [HTR-Corpus-C](https://github.com/16thExegesisDH/HTR-Corpus-B)
+   - [HTR-Corpus-C](https://github.com/16thExegesisDH/HTR-Corpus-C)
 
 ---
 
