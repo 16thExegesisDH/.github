@@ -78,14 +78,14 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Workflow
 
-### I. Processing Pipeline : ALTO → TEI → LaTeX / HTML / PDF / TXT
+### I. Processing Pipeline : XML/ALTO → XML/TEI → LaTeX / HTML / PDF / TXT
 
 The complete pipeline and all scripts are described and available in the following repository:  
 **[Workflow Repository – PipeLineThm](https://github.com/16thExegesisDH/PipeLineThm)**  
 
 ##### Further explanations and examples
     
-> See our training materials and instructional lessons:
+> See our training materials and introductory courses:
 > 
 > **[Training Materials – CUSO 2025 Ed-Num Online](https://github.com/CUSO-2025-Ed-Num-online?view_as=public)**  
 >  
