@@ -22,7 +22,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 - [Corpus](#corpus)
 - [Models](#model)
 - [Workflow](#Workflow)
-  - [I. Processing Pipeline : XML/ALTO → XML/TEI → LaTeX / HTML / PDF / TXT](#i-processing-pipeline)
+  - [I. Processing Pipeline : XML/ALTO → XML/TEI → LaTeX - HTML - PDF - TXT](#i-processing-pipeline)
   - [II. Web Application :TEI Publisher](#ii-web-application)
 - [Guidelines](#guideline)
   - [I. Segmentation](#i-segmentation)
@@ -79,7 +79,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Workflow
 
-### I. Processing Pipeline : XML/ALTO → XML/TEI → LaTeX / HTML / PDF / TXT
+### I. Processing Pipeline : XML/ALTO → XML/TEI → LaTeX - HTML - PDF - TXT
 
 The complete pipeline and all scripts are described and available in the following repository:  
 **[Workflow Repository – PipeLineThm](https://github.com/16thExegesisDH/PipeLineThm)**  
