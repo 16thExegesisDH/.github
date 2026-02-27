@@ -91,7 +91,7 @@ flowchart LR
     C --> D[HTML]
     C --> E[PDF]
     C --> F[TXT]
-``
+``` 
 
 The complete pipeline and all scripts are described and available in the following repository:  
 **[Workflow Repository – PipeLineThm](https://github.com/16thExegesisDH/PipeLineThm)**  
