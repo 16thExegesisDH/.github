@@ -22,7 +22,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 - [Corpus](#corpus)
 - [Models](#Models)
 - [Workflow](#Workflow)
-  - [I. Processing Pipeline: XML/ALTO → XML/TEI → LaTeX - HTML - PDF - TXT](#i-processing-pipeline-xmlalto--xmltei--latex---html---pdf---txt)
+  - [I. Processing Pipeline](#i-processing-pipeline)
   - [II. Web Application: TEI Publisher](#ii-web-application-tei-publisher)
 - [Guidelines](#guidelines)
   - [I. Segmentation](#i.-segmentation)
