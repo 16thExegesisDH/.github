@@ -82,7 +82,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 ### I. Processing Pipeline : 
 ```text
 XML/ALTO → XML/TEI → LaTeX - HTML - PDF - TXT
-``
+```  
 
 ```mermaid
 flowchart LR
