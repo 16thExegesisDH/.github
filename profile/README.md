@@ -79,7 +79,19 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Workflow
 
-### I. Processing Pipeline : XML/ALTO → XML/TEI → LaTeX - HTML - PDF - TXT
+### I. Processing Pipeline : 
+```text
+XML/ALTO → XML/TEI → LaTeX - HTML - PDF - TXT
+``
+
+```mermaid
+flowchart LR
+    A[XML/ALTO] --> B[XML/TEI]
+    B --> C[LaTeX]
+    C --> D[HTML]
+    C --> E[PDF]
+    C --> F[TXT]
+``
 
 The complete pipeline and all scripts are described and available in the following repository:  
 **[Workflow Repository – PipeLineThm](https://github.com/16thExegesisDH/PipeLineThm)**  
