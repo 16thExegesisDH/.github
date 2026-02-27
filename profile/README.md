@@ -22,8 +22,8 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 - [Corpus](#corpus)
 - [Models](#Models)
 - [Workflow](#Workflow)
-  - [I. Processing Pipeline](#i-processing-pipeline)
-  - [II. Web Application: TEI Publisher](#ii-web-application-tei-publisher)
+  - [I. Processing Pipeline](#i.-processing-pipeline)
+  - [II. Web Application: TEI Publisher](#ii.-web-application-tei-publisher)
 - [Guidelines](#guidelines)
   - [I. Segmentation](#i.-segmentation)
   - [II. Transcription](#ii.-transcription)
@@ -79,10 +79,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 
 ## Workflow
 
-### I. Processing Pipeline : 
-```text
-XML/ALTO → XML/TEI → LaTeX - HTML - PDF - TXT
-```  
+### I. Processing Pipeline 
 
 ```mermaid
 flowchart LR
