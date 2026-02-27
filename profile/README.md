@@ -22,9 +22,9 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 - [Corpus](#corpus)
 - [Models](#model)
 - [Workflow](#Workflow)
-  - [I. Processing Pipeline : XML/ALTO → XML/TEI → LaTeX - HTML - PDF - TXT](#i-processing-pipeline)
-  - [II. Web Application :TEI Publisher](#ii-web-application)
-- [Guidelines](#guideline)
+  - [I. Processing Pipeline : XML/ALTO → XML/TEI → LaTeX - HTML - PDF - TXT](###i-processing-pipeline)
+  - [II. Web Application :TEI Publisher](###ii-web-application)
+- [Guidelines](##guideline)
   - [I. Segmentation](#i-segmentation)
   - [II. Transcription](#ii-transcription)
 - [Project Timeline](#project-timeline)
@@ -40,7 +40,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
  
 * **TEI**
   
-   - Tei-16th-Exegesis(Link to be added)
+   - [Tei-16th-Exegesis](https://github.com/16thExegesisDH/TEI-16th-Exegesis)
 
 ---
 
