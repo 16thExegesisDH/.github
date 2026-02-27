@@ -89,7 +89,7 @@ flowchart LR
     A[XML/ALTO] --> B[XML/TEI]
     B --> C[LaTeX]
     B --> D[HTML]
-    B --> E[PDF]
+    C --> E[PDF]
     B --> F[TXT]
 ``` 
 
