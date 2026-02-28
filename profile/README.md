@@ -146,20 +146,15 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 
 ## Documentations
 
-This repository includes the project documentation, notebooks, and scripts.
+This repository includes the main project documents, notebooks, and scripts.
 
-###  Documents
-- **Project Presentation** — May 2024 (PDF)
-- **Project Results** — March 2026 (PDF)
-- **Digital Architecture** — *Humanistica* article (forthcoming)  
-  - Pre-published mini-thesis available
-
-###  Notebooks
-Distant Reading · Lemmatization · LatinCy · Cleaning
-
-###  Script
-Data processing
-
+| Category | Content | Doc |
+|----------|---------|-------|
+| 📄 Documents | Project Presentation (May 2024) | PDF |
+| 📄 Documents | Project Results (March 2026) | PDF |
+| 📰 Article | Digital Architecture — *Humanistica* | Link forthcoming · Preprint available |
+| 💻 Notebooks | Distant Reading · Lemmatization · LatinCy · Cleaning | — |
+| ⚙️ Script | Data processing | — |
 ---
 
 ## Project Timeline
