@@ -145,16 +145,16 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 ---
 
 ## Documentations
+[This repository](https://github.com/16thExegesisDH/Documentations)  includes the project documentation, notebooks, and scripts.
 
-This repository includes the main project documents, notebooks, and scripts.
+| Category | Content |
+|----------|---------|
+| 📄 Documents | [Project Presentation (May 2024)](https://github.com/16thExegesisDH/Documentations/IHR_présentation_Projet.pdf) |
+| 📄 Documents | [Project Results (March 2026)](https://github.com/16thExegesisDH/Documentations/Presentation_DHday.pdf) |
+| 📰 Article | Digital Architecture — *Humanistica* (link ) |
+| 💻 Notebooks | Distant Reading · Lemmatization · LatinCy · Cleaning |
+| ⚙️ Script | Data processing | 
 
-| Category | Content | Doc |
-|----------|---------|-------|
-| 📄 Documents | Project Presentation (May 2024) | PDF |
-| 📄 Documents | Project Results (March 2026) | PDF |
-| 📰 Article | Digital Architecture — *Humanistica* | Link forthcoming · Preprint available |
-| 💻 Notebooks | Distant Reading · Lemmatization · LatinCy · Cleaning | — |
-| ⚙️ Script | Data processing | — |
 ---
 
 ## Project Timeline
