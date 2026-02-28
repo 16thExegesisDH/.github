@@ -143,15 +143,23 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 > DOI: https://doi.org/10.5334/johd.97 · HAL open archive: https://hal.science/hal-03828353
 
 ---
+
 ## Documentations
 
-Le dépot contient la documentation présentant les différentes étapes du projets et les scripts et notebooks pour sa réalisation 
+This repository includes the project documentation, notebooks, and scripts.
 
-* Présentation du projet : mai 2024 (icone de pdf avec lien)
-* Présentation des résaultat du projet : mars 2026  (icone de pdf avec lien)
-* architecture digital : article humanistica (lien à venir) en attendant (mini-mémoire en prépublish)
-* Notebooks : Distante Reading, lemmatisation, LatinCy, Cleaning 
-* script : data processing   
+###  Documents
+- **Project Presentation** — May 2024 (PDF)
+- **Project Results** — March 2026 (PDF)
+- **Digital Architecture** — *Humanistica* article (forthcoming)  
+  - Pre-published mini-thesis available
+
+###  Notebooks
+Distant Reading · Lemmatization · LatinCy · Cleaning
+
+###  Script
+Data processing
+
 ---
 
 ## Project Timeline
