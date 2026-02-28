@@ -149,9 +149,9 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 
 | Category | Content |
 |----------|---------|
-| 📄 Documents | [Project Presentation (May 2024)](https://github.com/16thExegesisDH/Documentations/IHR_présentation_Projet.pdf) |
-| 📄 Documents | [Project Results (March 2026)](https://github.com/16thExegesisDH/Documentations/Presentation_DHday.pdf) |
-| 📰 Article | Digital Architecture — *Humanistica* (link ) |
+| 📄 Documents | [Project Presentation (May 2024)](https://github.com/16thExegesisDH/Documentations/blob/main/IHR_pr%C3%A9sentation_Projet.pdf) |
+| 📄 Documents | [Project Results (March 2026)](link) |
+| 📰 Article | Digital Architecture — *Humanistica* : [Données et modèles pour le traitement des documents en néolatin: le cas Lambert Daneau](link ) |
 | 💻 Notebooks | Distant Reading · Lemmatization · LatinCy · Cleaning |
 | ⚙️ Script | Data processing | 
 
