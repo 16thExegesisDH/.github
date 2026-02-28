@@ -27,6 +27,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 - [Guidelines](#guidelines)
   - [I. Segmentation](#i-segmentation)
   - [II. Transcription](#ii-transcription)
+- [Documentations](#Documentations)
 - [Project Timeline](#project-timeline)
 - [Citations](#citations)
 
@@ -141,6 +142,16 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 > *Journal of Open Humanities Data*, vol. 9, p. 4, 2023.  
 > DOI: https://doi.org/10.5334/johd.97 · HAL open archive: https://hal.science/hal-03828353
 
+---
+## Documentations
+
+Le dépot contient la documentation présentant les différentes étapes du projets et les scripts et notebooks pour sa réalisation 
+
+* Présentation du projet : mai 2024 (icone de pdf avec lien)
+* Présentation des résaultat du projet : mars 2026  (icone de pdf avec lien)
+* architecture digital : article humanistica (lien à venir) en attendant (mini-mémoire en prépublish)
+* Notebooks : Distante Reading, lemmatisation, LatinCy, Cleaning 
+* script : data processing   
 ---
 
 ## Project Timeline
