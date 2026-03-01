@@ -198,7 +198,7 @@ Examples of specific cases in our corpus are available **[here](https://github.c
 **Corpus consolidation and web deployment**
 
 - Migration of HTR Lambertus prototype data → **Corpus-A**
-- Migration of 1 Timothy project data → **Corpus-A**
+- Migration of 1 Timothy project data → **Corpus-B**
 - Expansion of **Corpus-C** with additional books
 - Web application deployment via **TEI-Publisher**
 
