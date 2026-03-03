@@ -61,7 +61,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 |--------|-------------|------|
 | **Corpus A** | Gold-standard corpus, manually corrected; used as a training dataset for the models.| [Corpus_A.csv](https://github.com/16thExegesisDH/HTR-Corpus-A/blob/main/corpus/Corpus_A.csv) |
 | **Corpus B** | Bronze-standard corpus, automatically corrected; manual corrections limited to verses OCR. | [Corpus_B.csv](https://github.com/16thExegesisDH/HTR-Corpus-B/blob/main/corpus/Corpus_B.csv) |
-| **Corpus C** | Silver-standard corpus; reviewed segmentation, corrected verses-level OCR | [Corpus_C.csv](https://github.com/16thExegesisDH/HTR-Corpus-C/blob/main/corpus/Corpus_C.csv) |
+| **Corpus C** | Silver-standard corpus; reviewed segmentation, corrected verses-level OCR | [Corpus_C.csv](https://github.com/16thExegesisDH/HTR-Corpus-C/blob/main/corpus/Corpus-C_priority_1_v2.csv) |
 
 ---
 
