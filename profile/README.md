@@ -4,7 +4,7 @@
 
 * Website: https://16thexegesisdh.github.io/ReformingPaul/
   
-  > **Note:** This is an early beta release. Content, structure, and features are still under development.
+  > **Note:** This is an beta release. Content, structure, and features are still under development.
   
 * Migration to TEI Publisher scheduled for **summer 2026**
 
