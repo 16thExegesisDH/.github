@@ -2,7 +2,10 @@
 
 # Website 
 
-* Website: https://16thexegesisdh.github.io/ReformingPaul/ 
+* Website: https://16thexegesisdh.github.io/ReformingPaul/
+  
+  > **Note:** This is an early beta release. Content, structure, and features are still under development.
+  
 * Migration to TEI Publisher scheduled for **summer 2026**
 
 # Project
@@ -219,7 +222,7 @@ Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi 
 
 ```bibtex
 @misc{Goy_exegesisofPaul_2023,
-  author={Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann},
+  author={Ueli Zahnd, Stefan Krauter, Matteo Colombo, Floriane Goy, Benjamin Manig, Noemi Schürmann, Béatrice Dupuis},
   title={16th Century Exegesis of Paul},
   address={Geneva; Zürich},
   publisher={University of Geneva; University of Zürich},
