@@ -76,7 +76,7 @@ This project is funded by the Swiss National Science Foundation (SNSF). Project 
 * **HTR:** 
   - Best model currently available (trained by colleagues on a subset of our data; link forthcoming)
   - Old model trained for the project:
-    * [Reposoitory – OCR](https://github.com/16thExegesisDH/OCR-model)
+    * [Reposoitory – OCR-model](https://github.com/16thExegesisDH/OCR-model)
     - old model (25.05.2024) _gallicorpora_ajust_ available on zenodo: [19218113](https://doi.org/10.5281/zenodo.19218113)
 
 ---
