@@ -6,7 +6,7 @@
   
   > **Note:** This is an beta release. Content, structure, and features are still under development.
   
-* Migration to TEI Publisher scheduled for **summer 2026**
+* Migration to TEI Publisher scheduled for **automne 2026**
 
 # Project
 
